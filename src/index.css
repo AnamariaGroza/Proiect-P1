@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.startButton
+		{
+		
+		height: 500px;
+		width: 500px;
+		border-radius: 50%;
+		border-color:  #7cd431;
+		background-color:  #7cd431;
+		color: white;
+		font-size: 50px;
+		font-style: italic;
+		font-style: bold;
+		font-family: georgia;
+		}
+		.startButton:hover{
+			font-size: 55px;
+			background-color: #8CF584;
+		}
